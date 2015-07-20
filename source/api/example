@@ -1,0 +1,32 @@
+{
+    "Bands": [
+        {"Band": 1  , "UplinkLow": 1920   , "UplinkHigh": 1980   , "DownlinkLow": 2110   , "DownlinkHigh": 2170}   ,
+        {"Band": 2  , "UplinkLow": 1850   , "UplinkHigh": 1910   , "DownlinkLow": 1930   , "DownlinkHigh": 1990}   ,
+        {"Band": 3  , "UplinkLow": 1710   , "UplinkHigh": 1785   , "DownlinkLow": 1805   , "DownlinkHigh": 1880}   ,
+        {"Band": 4  , "UplinkLow": 1710   , "UplinkHigh": 1755   , "DownlinkLow": 2110   , "DownlinkHigh": 2155}   ,
+        {"Band": 5  , "UplinkLow": 824    , "UplinkHigh": 849    , "DownlinkLow": 869    , "DownlinkHigh": 894}    ,
+        {"Band": 6  , "UplinkLow": 830    , "UplinkHigh": 840    , "DownlinkLow": 875    , "DownlinkHigh": 885}    ,
+        {"Band": 7  , "UplinkLow": 2500   , "UplinkHigh": 2570   , "DownlinkLow": 2620   , "DownlinkHigh": 2690}   ,
+        {"Band": 8  , "UplinkLow": 880    , "UplinkHigh": 915    , "DownlinkLow": 925    , "DownlinkHigh": 960}    ,
+        {"Band": 9  , "UplinkLow": 1749.9 , "UplinkHigh": 1784.9 , "DownlinkLow": 1844.9 , "DownlinkHigh": 1879.9} ,
+        {"Band": 10 , "UplinkLow": 1710   , "UplinkHigh": 1770   , "DownlinkLow": 2110   , "DownlinkHigh": 2170}   ,
+        {"Band": 11 , "UplinkLow": 1427.9 , "UplinkHigh": 1447.9 , "DownlinkLow": 1475.9 , "DownlinkHigh": 1495.9} ,
+        {"Band": 12 , "UplinkLow": 699    , "UplinkHigh": 716    , "DownlinkLow": 729    , "DownlinkHigh": 746}    ,
+        {"Band": 13 , "UplinkLow": 777    , "UplinkHigh": 787    , "DownlinkLow": 746    , "DownlinkHigh": 756}    ,
+        {"Band": 14 , "UplinkLow": 788    , "UplinkHigh": 798    , "DownlinkLow": 758    , "DownlinkHigh": 768}    ,
+        {"Band": 17 , "UplinkLow": 704    , "UplinkHigh": 716    , "DownlinkLow": 734    , "DownlinkHigh": 746}    ,
+        {"Band": 18 , "UplinkLow": 815    , "UplinkHigh": 830    , "DownlinkLow": 860    , "DownlinkHigh": 875}    ,
+        {"Band": 19 , "UplinkLow": 830    , "UplinkHigh": 845    , "DownlinkLow": 875    , "DownlinkHigh": 890}    ,
+        {"Band": 20 , "UplinkLow": 832    , "UplinkHigh": 862    , "DownlinkLow": 791    , "DownlinkHigh": 821}    ,
+        {"Band": 21 , "UplinkLow": 1447.9 , "UplinkHigh": 1462.9 , "DownlinkLow": 1495.9 , "DownlinkHigh": 1510.9} ,
+        {"Band": 22 , "UplinkLow": 3410   , "UplinkHigh": 3490   , "DownlinkLow": 3510   , "DownlinkHigh": 3590}   ,
+        {"Band": 23 , "UplinkLow": 2000   , "UplinkHigh": 2020   , "DownlinkLow": 2180   , "DownlinkHigh": 2200}   ,
+        {"Band": 24 , "UplinkLow": 1626.5 , "UplinkHigh": 1660.5 , "DownlinkLow": 1525   , "DownlinkHigh": 1559}   ,
+        {"Band": 25 , "UplinkLow": 1850   , "UplinkHigh": 1915   , "DownlinkLow": 1930   , "DownlinkHigh": 1995}   ,
+        {"Band": 26 , "UplinkLow": 814    , "UplinkHigh": 849    , "DownlinkLow": 859    , "DownlinkHigh": 894}    ,
+        {"Band": 27 , "UplinkLow": 807    , "UplinkHigh": 824    , "DownlinkLow": 852    , "DownlinkHigh": 869}    ,
+        {"Band": 28 , "UplinkLow": 703    , "UplinkHigh": 748    , "DownlinkLow": 758    , "DownlinkHigh": 803}    ,
+        {"Band": 30 , "UplinkLow": 2305   , "UplinkHigh": 2315   , "DownlinkLow": 2350   , "DownlinkHigh": 2360}   ,
+        {"Band": 31 , "UplinkLow": 452.5  , "UplinkHigh": 457.5  , "DownlinkLow": 462.5  , "DownlinkHigh": 467.5}
+    ]
+}

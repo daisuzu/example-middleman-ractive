@@ -1,0 +1,43 @@
+---
+title: Example
+---
+
+.jumbotron
+  .container
+    h1 LTE bands
+
+.container
+  #example-app
+    = content_tag :script, :id => "example-template", :type => "text/ractive" do
+      label Frequency (MHz):
+      input type="text" value="{{freq}}"
+      hr
+      table class="table table-striped table-bordered"
+        thead
+          tr
+            th rowspan=2 Band
+            th colspan=2 Uplink(MHz)
+            th colspan=2 Downlink(MHz)
+          tr
+            th low
+            th high
+            th low
+            th high
+        tbody
+          | {{#each Bands}}
+          | {{#if !.hide}}
+          tr
+            td
+              | {{.Band}}
+            td
+              | {{.UplinkLow}}
+            td
+              | {{.UplinkHigh}}
+            td
+              | {{.DownlinkLow}}
+            td
+              | {{.DownlinkHigh}}
+          | {{/if}}
+          | {{/each}}
+
+== javascript_include_tag "example"
